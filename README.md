@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paolo Lupo!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paoloLupo96&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
-- 🔭 I’m currently working on **PixelPlayground**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 📫 How to reach me **lupo.paolo96@gmail.com**
-
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/paolo-lupo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </h3>
 
@@ -50,6 +42,14 @@
 
 <hr>
 <br>
+
+- 🔭 I’m currently working on **PixelPlayground**
+
+- 🌱 I’m currently learning **Node.js**
+
+- 📫 How to reach me **lupo.paolo96@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paoloLupo96&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=paoloLupo96&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paoloLupo96&theme=radical&hide_border=false)<br><br>
