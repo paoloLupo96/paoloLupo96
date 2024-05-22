@@ -48,9 +48,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paoloLupo96&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/paolo-lupo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/paolo-lupo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a></h3>
 
+<br>
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=paoloLupo96&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br><br>
