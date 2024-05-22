@@ -48,6 +48,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </div>
 
+<hr>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=paoloLupo96&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paoloLupo96&theme=radical&hide_border=false)<br/>
