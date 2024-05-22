@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paolo Lupo!</h1>
-<img align="right" alt="Coding" width="200" style="border-radius: 10px"
- src="https://camo.githubusercontent.com/6fcefe95f5e6c564ce0b4b08a9985ab8a20d81d47ad4dd2533630876ac7fb3e4/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e6769662663743d67">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paoloLupo96&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
